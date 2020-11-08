@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 </p>
 3.<b> mBot:</b> Autonomous robot that used multiple sensors, including IR, sound, light and Ultrasound, to respond to multiple different audio-visual signals that determined the actions of the bot. 
 <p align="center">
-  <img alt="mBot" src="images/mbot.jpg" style="width:50px;" />
+  <img alt="mBot" src="images/mbot.jpg" alt="drawing" style="width:50px;" />
   <br><em>Figure 1</em>
 </p>
