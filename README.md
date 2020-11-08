@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 1.<b> osBot:</b> A robot controlled using an android app over bluetooth. With the use of a real time operating system, the bot is able to move, flash leds, play different tunes and respond to bluetooth signal simultaneously. </br>
 2.<b> Alex:</b> A robot with remote navigation, with information received from a LiDAR. Raspberry Pi was used to process the data from the LiDAR as well as send signals to control the motion of the bot. Arduino was used for the basic functionalities of the bot. </br>
 <p align="center">
-  <img alt="alex" src="images/alex.jpg" style="width:50px;" />
+  <img alt="alex" src="images/alex.jpg" alt="drawing" width="200"  />
   <br><em>Figure 1</em>
 </p>
 3.<b> mBot:</b> Autonomous robot that used multiple sensors, including IR, sound, light and Ultrasound, to respond to multiple different audio-visual signals that determined the actions of the bot. 
