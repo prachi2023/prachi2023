@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ## Past Projects 
-1.<b> Image Captioning Project: </b> Machine Learning project that aims to generate a description for a given image, to help the visually impaired understand their surroundings better. Implemented Faster – RCNN by using VGG16 to extract features from input images. Generating anchor boxes and filtering them using NMS to understand the objects in the image. Applied NLP techniques to generate the caption of the images. Modelled in Python with the use of TensorFlow and PyTorch
-2.<b> AI Retina Glaucoma Test: </b> Supervised Machine Learning to distinguish images of retinas with and without glaucoma 
+1.<b> Image Captioning Project: </b> Machine Learning project that aims to generate a description for a given image, to help the visually impaired understand their surroundings better. Implemented Faster – RCNN by using VGG16 to extract features from input images. Generating anchor boxes and filtering them using NMS to understand the objects in the image. Applied NLP techniques to generate the caption of the images. Modelled in Python with the use of TensorFlow and PyTorch </br>
+2.<b> AI Retina Glaucoma Test: </b> Supervised Machine Learning to distinguish images of retinas with and without glaucoma </br>
 3.<b> osBot:</b> A robot controlled using an android app over bluetooth. With the use of a real time operating system, the bot is able to move, flash leds, play different tunes and respond to bluetooth signal simultaneously. </br>
 4.<b> Alex:</b> A robot with remote navigation, with information received from a LiDAR. Raspberry Pi was used to process the data from the LiDAR as well as send signals to control the motion of the bot. Arduino was used for the basic functionalities of the bot. </br>
 <p align="center">
